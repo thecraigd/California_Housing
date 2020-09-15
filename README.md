@@ -6,6 +6,7 @@
 
 # [Machine Learning Web Application](https://californiahousing.herokuapp.com/) - California Housing Prices
 
+
 ![App Screenshot](https://www.craigdoesdata.de/img/calihousing.jpg)
 
 #### Project status - Complete
